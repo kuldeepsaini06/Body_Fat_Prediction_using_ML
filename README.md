@@ -21,4 +21,5 @@ The variables listed below, from left to right, are:
     Wrist circumference (cm)
 
 
-<a href="shorturl.at/jry28" target="_blank">Check_Project</a>
+<a href="https://www.shorturl.at/jry28" target="_blank">Check_Project</a>
+
